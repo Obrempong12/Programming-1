@@ -1,0 +1,2 @@
+DELETE FROM Members
+WHERE MemberID = 2;

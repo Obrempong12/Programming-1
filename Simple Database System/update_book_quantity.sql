@@ -1,0 +1,3 @@
+UPDATE Books
+SET Quantity = 10
+WHERE ISBN = 'ISBN001';
