@@ -4,7 +4,6 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
         {
             "type": "java",
             "name": "Current File",
@@ -13,17 +12,31 @@
         },
         {
             "type": "java",
-            "name": "Administrator",
+            "name": "ClockSimulationOutput",
             "request": "launch",
-            "mainClass": "Administrator",
-            "projectName": "Course Enrollment and Grade Management System For A University_f2f1c0c2"
+            "mainClass": "ClockSimulationOutput",
+            "projectName": "Programming-1_b0658882"
         },
         {
             "type": "java",
-            "name": "App",
+            "name": "ClockThreadPriorities",
             "request": "launch",
-            "mainClass": "App",
-            "projectName": "Course Enrollment and Grade Management System For A University_f2f1c0c2"
+            "mainClass": "ClockThreadPriorities",
+            "projectName": "Programming-1_b0658882"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Programming-1_b0658882"
+        },
+        {
+            "type": "java",
+            "name": "MainTest",
+            "request": "launch",
+            "mainClass": "MainTest",
+            "projectName": "Programming-1_b0658882"
         }
     ]
 }

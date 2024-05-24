@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Debug (Launch)",
+        "request": "launch",
+        "cwd": "${Generic Library Catalog}",
+        "console": "internalConsole",
+        "stopOnEntry": false,
+        "args": "",
+        "classpath": "${wGeneric Library Catalog}/bin",
+        "mainClass": "",
+        "sourcePaths": ["${Generic Library Catalog}"],
+        "encoding": "UTF-8",
+        "jvmArgs": ""
+      }
+    ]
+  }  
