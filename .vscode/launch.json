@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ChatServer",
+            "request": "launch",
+            "mainClass": "ChatServer",
+            "projectName": "Programming-1_b0658882"
+        },
+        {
+            "type": "java",
+            "name": "ChatClient",
+            "request": "launch",
+            "mainClass": "ChatClient",
+            "projectName": "Programming-1_b0658882"
+        },
+        {
+            "type": "java",
+            "name": "ChatAppMain",
+            "request": "launch",
+            "mainClass": "ChatAppMain",
+            "projectName": "Programming-1_b0658882"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
