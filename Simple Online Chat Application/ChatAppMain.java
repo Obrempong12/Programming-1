@@ -46,4 +46,8 @@ public class ChatAppMain {
         });
         clientThread.start();
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e57d568abe6197f651b38db56cac6be0d3243a71
